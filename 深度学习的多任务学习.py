@@ -2,6 +2,7 @@
 """
 OnekeyNet 第四十八轮调参 choose 98 epoch
 - 针对 Blood_stasis 和 Qi_deficiency 进行进一步调整
+-LLM+DL+ML 62 epoch    LLM+tongue+xue 113 epoch
 """
 
 import os
